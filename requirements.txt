@@ -1,0 +1,8 @@
+PyQt5
+crewai
+crewai-tools
+openai-whisper
+pyaudio
+python-dotenv
+ollama
+onnxruntime
